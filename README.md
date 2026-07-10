@@ -5,7 +5,7 @@ I enjoy understanding how technology works beneath the surface—not just resolv
 My GitHub showcases technical projects focused on systems administration, identity and access management, automation, and infrastructure.
 Thanks for stopping by!
 
-🌐 Portfolio: [nakelaj.github.io]
+🌐 Portfolio: (nakelaj.github.io)
 
 💼 LinkedIn → [LinkedIn]
 
